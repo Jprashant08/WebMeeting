@@ -1,7 +1,6 @@
-# VideoChatWebApp-using-Jitsi-API
+# WebMeetingApp-using-Jitsi-API
 How to create a video chat web app using API
 
-[Link to Youtube video](https://youtu.be/n3wp0xhap2k)
-![Capture](https://user-images.githubusercontent.com/43510126/121779071-8245d380-cbb7-11eb-8672-53d0aaa19898.PNG)
+This is a simple WebMeetingApp which students can use as their college projects Also this webapp allow you to conduct realife meetings, This project is made using a free chrome API Extension which is Jitsi-API , If you know any other free API than you can use that too
 
 
